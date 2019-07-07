@@ -1,7 +1,6 @@
 # Algorithm
 ## Leetcode 문제풀기
-* 1. Two Sum
-** [Link](https://leetcode.com/problems/two-sum/)
+* 1. Two Sum [Link](https://leetcode.com/problems/two-sum/)
 '
 class Solution:
    def twoSum(self, nums, target):
@@ -11,8 +10,7 @@ class Solution:
                    return [i, j]
 '
   
-* 7. Reverse Integer
-** [Link](https://leetcode.com/problems/reverse-integer/)
+* 7. Reverse Integer [Link](https://leetcode.com/problems/reverse-integer/)
 '
 class Solution:
    def reverse(self, x):
