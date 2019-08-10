@@ -27,4 +27,3 @@ class Solution:
            return 0
        return answer
 '
-* [test](https://www.supremenewyork.com/shop)
